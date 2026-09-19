@@ -48,7 +48,7 @@ export default function Landing() {
               Watch the answers arrive.
             </h1>
             <p style={{ fontSize: '1.05rem', maxWidth: 460, marginBottom: 32, color: 'rgba(255, 255, 255, 0.82)' }}>
-              Pulse is a live polling tool. Create a poll, share one link, and
+              SnapVote is a live polling tool. Create a poll, share one link, and
               every viewer sees results update in real time — no page
               refresh, ever.
             </p>
